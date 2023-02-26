@@ -3,7 +3,7 @@ package dataTypes;
 public class Elseif_Demo {
 
 	public static void main(String[] args) {
-		
+		//This is an example of control statement
 		/*Else if syntax:
 		 * if (condition)
 		 * {code to be executed
