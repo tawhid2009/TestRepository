@@ -36,7 +36,7 @@ public class ForLoopDemo {
 		 * your place  
 		 */
 	
-		String city = "Brooklyn";
+		String city = "Queens";
 		
 		// using for loop
 		for(int i = 0; i < 3; i++) {
