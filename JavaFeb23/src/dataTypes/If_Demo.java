@@ -1,6 +1,6 @@
 package dataTypes;
 
-public class if_Demo {
+public class If_Demo {
 
 	public static void main(String[] args) {
 		
